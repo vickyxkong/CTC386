@@ -1,0 +1,8 @@
+Vicky Kong
+
+1. 7
+2. a train
+3a. No...?
+3b. It was not returning how long it took. It only gave me the number of bytes of data.
+4a. info '(coreutils) whoami invocation'
+4b. 20.3
